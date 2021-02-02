@@ -16,7 +16,7 @@
             <div style="font-size: 20px">
               This page is unavailable. Please return homepage.
             </div>
-            <v-btn class="mt-5 primary rounded-xl" to="/">Go Back Home</v-btn>
+            <v-btn class="mt-5 primary rounded-xl" to="/">Back Home</v-btn>
           </div>
         </v-col>
       </v-row>
