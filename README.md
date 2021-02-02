@@ -1,6 +1,6 @@
 # michael-app
 
-## Project setup
+## Project setup locally
 ```
 npm install
 ```
